@@ -1,0 +1,14 @@
+{
+  "Url": "http://testautomation.test",
+  "Usuario": "usuario",
+  "Senha": "M1n#0l0V3",
+  "HostDb": "uhgx02-scan",
+  "PortDb": "1521",
+  "ServiceNameDb": "lgpd",
+  "UserDb": "app",
+  "SenhaDb": "-KQAWVR3",
+  "CampoSituacaoEmAnalise": "Em Análise",
+  "ClasseRedeMaster": "Rede Master",
+  "EstabelecimentoServicosDeAltaComplexidade": "Serviços de alta complexidade",
+  "MesAniversarioContratoDez": "Dez"
+}
