@@ -14,17 +14,6 @@ namespace TestAutomation.Data.Acessos
         Acessos acessos;
         private readonly string NomeAmbienteTestAutomation = "TestAutomation";
 
-        #region Strings Globais PortalBeneficiario
-        public string UrlQAPortalBeneficiario;
-        public string UsuarioQAPortalBeneficiario;
-        public string SenhaQAPortalBeneficiario;
-        public string HostDbQAPortalBeneficiario;
-        public string PortDbQAPortalBeneficiario;
-        public string ServiceNameDbQAPortalBeneficiario;
-        public string UserDbQAPortalBeneficiario;
-        public string SenhaDbQAPortalBeneficiario;
-        #endregion
-
         #region Gets e Sets Json
         #endregion
 
