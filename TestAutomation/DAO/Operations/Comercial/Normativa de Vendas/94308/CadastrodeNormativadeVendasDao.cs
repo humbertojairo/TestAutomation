@@ -22,7 +22,7 @@ namespace TestAutomation.DAO.Operations.Comercial.Normativa_de_Vendas.Cadastro_d
 
         public string RetornaQuery()
         {
-            _ConnectionDataBase = new ConnectionDataBase("uhgx02-scan", "1521", "lgpd", "app", "-KQAWVR3");
+            _ConnectionDataBase = new ConnectionDataBase("scan", "1521", "lgpd", "app", "123456");
             string selectCodCampanha = _ConnectionDataBase.ExecutaSelect(string.Format(SelectCodCampanha));
             return selectCodCampanha;
         }

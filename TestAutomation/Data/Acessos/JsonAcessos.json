@@ -1,8 +1,8 @@
 {
   "Url": "http://testautomation.test",
   "Usuario": "usuario",
-  "Senha": "M1n#0l0V3",
-  "HostDb": "uhgx02-scan",
+  "Senha": "123456",
+  "HostDb": "scan",
   "PortDb": "1521",
   "ServiceNameDb": "lgpd",
   "UserDb": "app",
